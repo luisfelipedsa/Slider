@@ -172,10 +172,10 @@ const [time,setTime] = useState(true);
     
     
 
-    if(time===true){
-        setInterval(teste(time),8000)
+    // if(time===true){
+    //     setInterval(teste(time),8000)
         
-     }
+    //  }
     
     
     
